@@ -1,0 +1,22 @@
+[
+  { "model": "plants.plant", "pk": 1, "fields": { "name": "Monstera Deliciosa", "scientific_name": "Monstera deliciosa", "price": "29.99", "stock": 18, "care_level": "Easy" } },
+  { "model": "plants.plant", "pk": 2, "fields": { "name": "Snake Plant", "scientific_name": "Dracaena trifasciata", "price": "19.50", "stock": 35, "care_level": "Easy" } },
+  { "model": "plants.plant", "pk": 3, "fields": { "name": "Fiddle Leaf Fig", "scientific_name": "Ficus lyrata", "price": "54.00", "stock": 9, "care_level": "Moderate" } },
+  { "model": "plants.plant", "pk": 4, "fields": { "name": "ZZ Plant", "scientific_name": "Zamioculcas zamiifolia", "price": "24.00", "stock": 27, "care_level": "Easy" } },
+  { "model": "plants.plant", "pk": 5, "fields": { "name": "Peace Lily", "scientific_name": "Spathiphyllum wallisii", "price": "22.75", "stock": 15, "care_level": "Easy" } },
+  { "model": "plants.plant", "pk": 6, "fields": { "name": "Pothos Golden", "scientific_name": "Epipremnum aureum", "price": "14.99", "stock": 42, "care_level": "Easy" } },
+  { "model": "plants.plant", "pk": 7, "fields": { "name": "Calathea Orbifolia", "scientific_name": "Goeppertia orbifolia", "price": "34.50", "stock": 11, "care_level": "Moderate" } },
+  { "model": "plants.plant", "pk": 8, "fields": { "name": "Rubber Tree", "scientific_name": "Ficus elastica", "price": "28.00", "stock": 16, "care_level": "Easy" } },
+  { "model": "plants.plant", "pk": 9, "fields": { "name": "String of Pearls", "scientific_name": "Curio rowleyanus", "price": "18.25", "stock": 14, "care_level": "Moderate" } },
+  { "model": "plants.plant", "pk": 10, "fields": { "name": "Bird of Paradise", "scientific_name": "Strelitzia nicolai", "price": "65.00", "stock": 7, "care_level": "Moderate" } },
+  { "model": "plants.plant", "pk": 11, "fields": { "name": "Boston Fern", "scientific_name": "Nephrolepis exaltata", "price": "16.50", "stock": 20, "care_level": "Moderate" } },
+  { "model": "plants.plant", "pk": 12, "fields": { "name": "Aloe Vera", "scientific_name": "Aloe barbadensis miller", "price": "13.00", "stock": 30, "care_level": "Easy" } },
+  { "model": "plants.plant", "pk": 13, "fields": { "name": "Spider Plant", "scientific_name": "Chlorophytum comosum", "price": "12.50", "stock": 38, "care_level": "Easy" } },
+  { "model": "plants.plant", "pk": 14, "fields": { "name": "Chinese Evergreen", "scientific_name": "Aglaonema commutatum", "price": "26.00", "stock": 19, "care_level": "Easy" } },
+  { "model": "plants.plant", "pk": 15, "fields": { "name": "Maidenhair Fern", "scientific_name": "Adiantum capillus-veneris", "price": "21.00", "stock": 8, "care_level": "Expert" } },
+  { "model": "plants.plant", "pk": 16, "fields": { "name": "Philodendron Pink Princess", "scientific_name": "Philodendron erubescens", "price": "48.00", "stock": 6, "care_level": "Moderate" } },
+  { "model": "plants.plant", "pk": 17, "fields": { "name": "Bonsai Juniper", "scientific_name": "Juniperus procumbens", "price": "79.99", "stock": 5, "care_level": "Expert" } },
+  { "model": "plants.plant", "pk": 18, "fields": { "name": "Cast Iron Plant", "scientific_name": "Aspidistra elatior", "price": "31.00", "stock": 13, "care_level": "Easy" } },
+  { "model": "plants.plant", "pk": 19, "fields": { "name": "Pilea Peperomioides", "scientific_name": "Pilea peperomioides", "price": "17.50", "stock": 22, "care_level": "Easy" } },
+  { "model": "plants.plant", "pk": 20, "fields": { "name": "Venus Flytrap", "scientific_name": "Dionaea muscipula", "price": "23.50", "stock": 10, "care_level": "Expert" } }
+]
